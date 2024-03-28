@@ -1,5 +1,14 @@
-.main {
+.overview {
+    display: block;
     background-color: #102A3D;
-    width: 100%;
+    width: 50vh;
     padding: 20px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.container {
+    padding: 10px;
 }
